@@ -1,0 +1,17 @@
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+/*for that green background*/
+/* body {
+    background: url(./assets/bg.svg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    max-height: 100vh;
+}
+a {
+  text-decoration: none;
+} */
